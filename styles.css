@@ -1,0 +1,56 @@
+.container {
+  background-color: darkblue;
+  content: color = "white";
+  width: 500px;
+  margin: auto;
+}
+.title {
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 2%;
+}
+.business-card {
+  margin: 0 auto;
+
+  width: 300px;
+  border: 3px;
+  border-style: solid;
+  border-color: red;
+  background-color: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.rmit-logo {
+  width: 200px;
+}
+.avatar {
+  width: 200px;
+  border-width: 2px;
+  border-color: lightcoral;
+  border-style: solid;
+  border-radius: 50%;
+  /* the border-radius determine the shape of image. 50% is set to be circular if you start with a square image */
+}
+.onwer-name {
+  font-family: "Dancing Script", cursive;
+}
+.email {
+  margin: 0 auto;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  background-color: darkblue;
+  color: white;
+}
+
+.phone-number {
+  margin: 0 auto;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  background-color: darkblue;
+  color: white;
+}
